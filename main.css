@@ -30,3 +30,12 @@ li a {
 li a:hover {
     background-color: black;
 }
+
+.card {
+    border: 1px solid blue;
+    width: 30%;
+}
+
+.card img {
+    height: 100px;
+}
