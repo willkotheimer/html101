@@ -30,3 +30,22 @@ li a {
 li a:hover {
     background-color: black;
 }
+
+section {
+    border: 1px dotted red;
+    margin: 10px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+section:last-of-type {
+    margin-bottom: 50px;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 30;
+}
