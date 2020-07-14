@@ -31,6 +31,15 @@ li a:hover {
     background-color: black;
 }
 
+
+.card {
+    border: 1px solid blue;
+    width: 30%;
+}
+
+.card img {
+    height: 100px;
+}
 section {
     border: 1px dotted red;
     margin: 10px;
@@ -47,5 +56,5 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
-    height: 30;
+    height: 30px;
 }
